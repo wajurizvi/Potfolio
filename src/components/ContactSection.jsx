@@ -22,7 +22,7 @@ function Sendmail() {
   } 
  
     const Service_id = "service_ir1tvmp";
-    const Template_d = "template_o0utrcm";
+    const Template_d = "template_4c4mf6f";
     const User_id   = "WPYE5KqvgkGuzMNa_";
     emailjs.send(Service_id,Template_d,data,User_id).
 c    then(
